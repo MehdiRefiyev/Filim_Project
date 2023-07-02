@@ -1,0 +1,45 @@
+.card{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.input-group-sm {
+    width: 48%;
+    margin-left: 1%;
+    display: inline-flex;
+}
+.btn-primary , .lead {margin-left: 1%;}
+.category_name , .filims{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+}
+.category_name{
+    background-color: black;
+    color: white;
+}
+.category{
+    height: fit-content;
+    width: 30%;
+    display: inline-block;
+    padding: 5px;
+}
+.alert-danger{
+    width: 100%;
+    margin-top: 1%;
+}
+.image_place , .text_place , .text_dirc{
+    margin: 0%;
+    width: 30%;
+    border: none;
+}
+.list-group-item{width: 30%;}
+.alert_place , .filim_area{
+    width: 100%;
+    height: fit-content;
+    margin-bottom: 5%;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
